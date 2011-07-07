@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="3cm" height="2cm" viewBox="0 0 3000 2000"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <title>MicroSim card adapter template</title>
+  <desc>A path that draws a triangle</desc>
+  <path d="M 100 100 L 2600 100 L 2600 1300 L 2320 1580 L 100 1580 z"
+        fill="gray" stroke="red" stroke-width="3" />
+  <path d="M 285 240 L 1785 240 L 1785 1190 L 1535 1440 L 285 1440 z"
+        fill="white" stroke="red" stroke-width="3" />
+</svg>

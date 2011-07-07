@@ -5,8 +5,8 @@
      xmlns="http://www.w3.org/2000/svg" version="1.1">
   <title>MicroSim card adapter template</title>
   <desc>A path that draws a triangle</desc>
-  <path d="M 100 100 L 2600 100 L 2600 1300 L 2320 1580 L 100 1580 z"
-        fill="gray" stroke="red" stroke-width="3" />
-  <path d="M 285 240 L 1785 240 L 1785 1190 L 1535 1440 L 285 1440 z"
-        fill="white" stroke="red" stroke-width="3" />
+  <path d="M100 100 h2500 v1200 l-280 280 h-2220 z"
+        fill="gray" stroke="red" stroke-width="0.001" />
+  <path d="M285 240 h1500 v950 l-250 250 h-1250 z"
+        fill="white" stroke="red" stroke-width="0.001" />
 </svg>
